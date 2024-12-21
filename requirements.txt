@@ -1,7 +1,3 @@
-pandas
-random
-streamlit
 gtts
-tempfile
-logging
-platform
+pandas
+streamlit
